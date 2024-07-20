@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I am Sunday Ajibola, a Data Analyst
 
-I am *Olajide Odelanu* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+I am *Sunday Ajibola* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Results-driven and insightful analyst with proven experience and a strong understanding of data, business intelligent and web development. Leverage advanced analytical tools and techniques to provide actionable insights for complex data and solve complex business challenges and issues. Collaborative team player with excellent interpersonal communication and stakeholder management skills. Quick to assimilate new ideas and highly desiring creativity, innovation, and continuous learning. Strong engineering professional with a Master of Science (MSc) in Advanced Computer Science.
 
