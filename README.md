@@ -1,7 +1,16 @@
 ## Hi there 👋
+## I am Sunday Ajibola, a Data Analyst
 
-<!--
-**Ekosnipes/Ekosnipes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am *Olajide Odelanu* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Results-driven and insightful analyst with proven experience and a strong understanding of data, business intelligent and web development. Leverage advanced analytical tools and techniques to provide actionable insights for complex data and solve complex business challenges and issues. Collaborative team player with excellent interpersonal communication and stakeholder management skills. Quick to assimilate new ideas and highly desiring creativity, innovation, and continuous learning. Strong engineering professional with a Master of Science (MSc) in Advanced Computer Science.
+
+## Github Statistics and Contributions.
+![Sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekosnipes&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ekosnipes&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekosnipes&layout=compact)](https://github.com/Ekosnipes/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
